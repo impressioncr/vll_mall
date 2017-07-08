@@ -1,6 +1,9 @@
 # mshop
 
-> A Vue.js project
+# 一个vue.js单页应用
+> 使用到了vue-router,vue-resource。界面使用了ydui样式。
+>实现用户注册登陆。
+>浏览商品,收藏,下单等功能。
 
 ## Build Setup
 
